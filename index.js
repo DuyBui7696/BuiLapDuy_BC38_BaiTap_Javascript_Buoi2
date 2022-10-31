@@ -299,7 +299,7 @@ else if(c === 3){
 console.log("Số " + number + " đọc là " + a + b + c);
 
 // Bài 4
-
+//
 var name1 = "Duy";
 var name2 = "Nhi";
 var name3 = "Hung";
